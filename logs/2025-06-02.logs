@@ -1,0 +1,10 @@
+2025-06-02 17-41-36	::1	-	/myproject8/
+2025-06-02 17-41-39	::1	http://localhost/myproject8/	/myproject8/login
+2025-06-02 17-41-43	::1	http://localhost/myproject8/login	/myproject8/login
+2025-06-02 17-41-49	::1	http://localhost/myproject8/login	/myproject8/login
+2025-06-02 17-42-12	::1	http://localhost/myproject8/login	/myproject8/login
+2025-06-02 17-43-20	::1	http://localhost/myproject8/login	/myproject8/login
+2025-06-02 17-43-20	::1	http://localhost/myproject8/login	/myproject8/
+2025-06-02 17-51-50	::1	http://localhost/myproject8/	/myproject8/logs/?querysystemurl=logs
+2025-06-02 17-51-50	::1	http://localhost/myproject8/logs/?querysystemurl=logs	/myproject8/logs/2025-06-02
+2025-06-02 17-54-43	::1	http://localhost/myproject8/logs/2025-06-02	/myproject8/logs/2025-03-07
